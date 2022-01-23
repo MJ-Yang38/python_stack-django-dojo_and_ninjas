@@ -1,0 +1,15 @@
+#wrapper{
+    width:970px;
+    margin: 20px auto;
+    background-color: aliceblue;
+    display:flex;
+    justify-content: space-around;
+}
+.forms{
+    width: 200px;
+}
+#list{
+    width: 970px;
+    margin: 20px auto;
+    justify-content: center;
+}
